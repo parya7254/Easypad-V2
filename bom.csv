@@ -1,11 +1,11 @@
-Column 1,Column 2,Column 3,Column 4,
-Part,Source,Quantity,Cost,
-PCB,JLCPCB,5 (MOQ),$5.30 (with Shipping),
-Header Pins,AliExpress,1 (comes with 5 male-female sets),$1.79,
-RPi Pico (clone),AliExpress,1,$2.79,
-128x32 OLED,AliExpress,1,$1.99,
-Switches,AliExpress,2 sets of 10pcs,$5.79,
-1N4148W Diodes,AliExpress,100,$1.48,
-SK6812 Mini E LEDs,AliExpress,100pcs,$7.33,
-Rotary Encoder,AliExpress,5,$3.58,
-Clear Keycaps,AliExpress,20,$5.45,
+Column 1,Column 2,Column 3,Column 4
+Part,Source,Quantity,Cost
+PCB,JLCPCB,5 (MOQ),$5.30 (with Shipping)
+Header Pins,AliExpress,1 (comes with 5 male-female sets),$1.79
+RPi Pico (clone),AliExpress,1,$2.79
+128x32 OLED,AliExpress,1,$1.99
+Switches,AliExpress,2 sets of 10pcs,$5.79
+1N4148W Diodes,AliExpress,100,$1.48
+SK6812 Mini E LEDs,AliExpress,100pcs,$7.33
+Rotary Encoder,AliExpress,5,$3.58
+Clear Keycaps,AliExpress,20,$5.45
