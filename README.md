@@ -16,3 +16,16 @@ I wanted to experiment with compact designs and Choc switches. I built this to h
 <img width="292" height="326" alt="image" src="https://github.com/user-attachments/assets/25097ea4-ab0a-4d57-9c9a-58eb39b04f80" />
 
 <img width="509" height="565" alt="image" src="https://github.com/user-attachments/assets/80898c1f-b218-4731-84ce-a31d28426eee" />
+
+# BOM:
+| Part | Source | Quantity | Cost |
+|---|---|---|---|
+| PCB | JLCPCB | 5 (MOQ) | $5.30 (with Shipping) |
+| Header Pins | AliExpress | 1 (comes with 5 male-female sets) | $1.79 |
+| RPi Pico (clone) | AliExpress | 1 | $2.79 |
+| 128x32 OLED | AliExpress | 1 | $1.99 |
+| Switches | AliExpress | 2 sets of 10pcs | $5.79 |
+| 1N4148W Diodes | AliExpress | 100 | $1.48 |
+| SK6812 Mini E LEDs | AliExpress | 100pcs | $7.33 |
+| Rotary Encoder | AliExpress | 5 | $3.58 |
+| Clear Keycaps | AliExpress | 20 | $5.45 |
