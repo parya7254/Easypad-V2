@@ -1,5 +1,5 @@
-Column 1,Column 2,Column 3,Column 4
 Part,Source,Quantity,Cost
+-,-,-,-
 PCB,JLCPCB,5 (MOQ),$5.30 (with Shipping)
 Header Pins,AliExpress,1 (comes with 5 male-female sets),$1.79
 RPi Pico (clone),AliExpress,1,$2.79
