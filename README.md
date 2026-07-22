@@ -9,6 +9,9 @@ Per-key RGB lighting via SK6812 MINI-E RGB LEDs, page scrolling via the onboard 
 # Why?
 I wanted to experiment with compact designs and Choc switches. I built this to help get the grasp of making keyboards/macropads with Kalih Choc switches since they have a different pin layout and are way more compact. I also wanted to make this because I really love designing hardware projects and PCBs in general every chance I get time.
 
+# Flashing Firmware:
+To flash the firmware to the macropad, first you will need to install CircuitPython onto the RPi Pico by first downloading the .uf2 file from the CircuitPython website and then dragging and dropping it to the USB Drive the Pico shows up as. Then, install KMK on it and then upload the code.py to the board. Instructions for installing KMK is on the KMK GitHub repo.
+
 # Schematic:
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/262eda4f-6d83-4c55-914e-0b6c521d8cf9" />
 
