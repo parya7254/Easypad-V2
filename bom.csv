@@ -1,11 +1,11 @@
-Part,Source,Quantity,Cost
--,-,-,-
-PCB,JLCPCB,5 (MOQ),$5.30 (with Shipping)
-Header Pins,AliExpress,1 (comes with 5 male-female sets),$1.79
-RPi Pico (clone),AliExpress,1,$2.79
-128x32 OLED,AliExpress,1,$1.99
-Switches,AliExpress,2 sets of 10pcs,$5.79
-1N4148W Diodes,AliExpress,100,$1.48
-SK6812 Mini E LEDs,AliExpress,100pcs,$7.33
-Rotary Encoder,AliExpress,5,$3.58
-Clear Keycaps,AliExpress,20,$5.45
+Part,Source,Quantity,Cost,Link,
+-,-,-,-,-,
+PCB,JLCPCB,5 (MOQ),$5.30 (with Shipping),https://jlcpcb.com,
+Header Pins,AliExpress,1 (comes with 5 male-female sets),$1.79,https://www.aliexpress.us/item/3256807049277042.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD+6.03%21USD+1.79%21%21USD+1.79%21%21%21%40210311c217847467351336984e0d3d%2112000039908542823%21ct%21US%21861143113%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D&gatewayAdapt=glo2usa,
+RPi Pico (clone),AliExpress,1,$2.79,https://www.aliexpress.us/item/3256807207612469.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD+8.63%21USD+2.59%21%21USD+2.59%21%21%21%40210311c217847467351336984e0d3d%2112000040565295947%21ct%21US%21861143113%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D&gatewayAdapt=glo2usa,
+128x32 OLED,AliExpress,1,$1.99,https://www.aliexpress.us/item/3256807613276538.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&sourceType=570&pdp_npi=6%40dis%21USD%21USD+3.38%21USD+1.99%21%21USD+1.99%21%21%21%40210311c217847467351336984e0d3d%2112000042242093250%21ct%21US%21861143113%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D&gatewayAdapt=glo2usa,
+Switches,AliExpress,2 sets of 10pcs,$5.79,https://www.aliexpress.us/item/3256811626047380.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+6.11%21USD+5.79%21%21USD+5.79%21%21%21%40210311c217847467351336984e0d3d%2112000056648742495%21ct%21US%21861143113%21%212%210%21&gatewayAdapt=glo2usa,
+1N4148W Diodes,AliExpress,100,$1.48,https://www.aliexpress.us/item/3256804920500448.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+1.48%21USD+1.48%21%21USD+1.48%21%21%21%40210311c217847467351336984e0d3d%2112000031683474020%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa,
+SK6812 Mini E LEDs,AliExpress,100pcs,$7.33,https://www.aliexpress.us/item/3256810305129996.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+7.33%21USD+7.33%21%21USD+7.33%21%21%21%40210311c217847467351336984e0d3d%2112000052582134405%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa,
+Rotary Encoder,AliExpress,5,$3.58,https://www.aliexpress.us/item/2255799842376254.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+3.58%21USD+2.58%21%21USD+2.58%21%21%21%40210311c217847467351336984e0d3d%2110000000064746984%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa,
+Clear Keycaps,AliExpress,20,$5.45,https://www.aliexpress.us/item/3256810543438304.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+5.59%21USD+5.59%21%21USD+5.59%21%21%21%40210311c217847467351336984e0d3d%2112000053333576164%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa,
