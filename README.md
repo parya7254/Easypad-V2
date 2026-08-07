@@ -15,9 +15,12 @@ To flash the firmware to the macropad, first you will need to install CircuitPyt
 # Schematic:
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/262eda4f-6d83-4c55-914e-0b6c521d8cf9" />
 
-# PCB: 
-<img width="292" height="326" alt="image" src="https://github.com/user-attachments/assets/25097ea4-ab0a-4d57-9c9a-58eb39b04f80" />
+# PCB:
 
+<img width="519" height="527" alt="image" src="https://github.com/user-attachments/assets/6b826723-0a29-49d6-a151-799692b47684" />
+
+# Old PCB:
+<img width="292" height="326" alt="image" src="https://github.com/user-attachments/assets/25097ea4-ab0a-4d57-9c9a-58eb39b04f80" />
 <img width="509" height="565" alt="image" src="https://github.com/user-attachments/assets/80898c1f-b218-4731-84ce-a31d28426eee" />
 
 # CAD Link:
