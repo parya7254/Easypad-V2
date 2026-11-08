@@ -1,7 +1,7 @@
 # Easypad-V2
 A compact macropad featuring RGB lighting with SK6812 MINI-E Neopixel LEDs, a rotary encoder, a SSD1306 OLED Display and 15 (low-profile) choc mechanical switches! Powered by KMK firmware!
 
-<img width="873" height="839" alt="image" src="https://github.com/user-attachments/assets/5bd32174-ac7c-4a0f-bc5a-48186b4f907b" />
+<img width="506" height="398" alt="image" src="https://github.com/user-attachments/assets/53b8de84-c9c4-4413-8e60-9ce029d5f399" />
 
 # Features:
 Per-key RGB lighting via SK6812 MINI-E RGB LEDs, page scrolling via the onboard EC11 rotary encoder, a 0.91" 128x32 SSD1306 OLED display to display current mode, and 15 tactile low profile Kalih Choc V1 switches for compactability.
