@@ -13,15 +13,16 @@ I wanted to experiment with compact designs and Choc switches. I built this to h
 To flash the firmware to the macropad, first you will need to install CircuitPython onto the RPi Pico by first downloading the .uf2 file from the CircuitPython website and then dragging and dropping it to the USB Drive the Pico shows up as. Then, install KMK on it and then upload the code.py to the board. Instructions for installing KMK is on the KMK GitHub repo.
 
 # Schematic:
-<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/262eda4f-6d83-4c55-914e-0b6c521d8cf9" />
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/78785fb7-df0b-4325-8c45-695056f81cee" />
 
 # PCB:
 
-<img width="519" height="527" alt="image" src="https://github.com/user-attachments/assets/6b826723-0a29-49d6-a151-799692b47684" />
+<img width="571" height="568" alt="image" src="https://github.com/user-attachments/assets/aa8dc39a-9ad7-4e23-ab49-a95d0528c604" />
 
-# Old PCB:
-<img width="292" height="326" alt="image" src="https://github.com/user-attachments/assets/25097ea4-ab0a-4d57-9c9a-58eb39b04f80" />
-<img width="509" height="565" alt="image" src="https://github.com/user-attachments/assets/80898c1f-b218-4731-84ce-a31d28426eee" />
+# Old PCBs:
+
+| <img width="519" height="527" alt="image" src="https://github.com/user-attachments/assets/6b826723-0a29-49d6-a151-799692b47684" /> | <img width="292" height="326" alt="image" src="https://github.com/user-attachments/assets/25097ea4-ab0a-4d57-9c9a-58eb39b04f80" /> | <img width="509" height="565" alt="image" src="https://github.com/user-attachments/assets/80898c1f-b218-4731-84ce-a31d28426eee" /> |
+|-|-|-|
 
 # CAD Link:
 The assembled version is in Assembly 1!
