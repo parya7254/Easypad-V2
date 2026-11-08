@@ -39,4 +39,4 @@ https://cad.onshape.com/documents/4159a499467d346143555145/w/def90a5bdc25ba8320f
 | SK6812 Mini E LEDs | AliExpress | 100pcs | $7.33 | [Link](https://www.aliexpress.us/item/3256810305129996.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+7.33%21USD+7.33%21%21USD+7.33%21%21%21%40210311c217847467351336984e0d3d%2112000052582134405%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa) |
 | Rotary Encoder | AliExpress | 5 | $3.58 | [Link](https://www.aliexpress.us/item/2255799842376254.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+3.58%21USD+2.58%21%21USD+2.58%21%21%21%40210311c217847467351336984e0d3d%2110000000064746984%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa) |
 | Black Keycaps | AliExpress | 20 | $5.61 | [Link](https://www.aliexpress.us/item/3256810543438304.html?spm=a2g0o.cart.0.0.79b838daFbyhMJ&mp=1&pdp_npi=6%40dis%21USD%21USD+5.59%21USD+5.59%21%21USD+5.59%21%21%21%40210311c217847467351336984e0d3d%2112000053333576164%21ct%21US%21861143113%21%211%210%21&gatewayAdapt=glo2usa) |
-| Total Cost | - | - | $35.66 | - |
+| Total Cost: | - | - | $35.66 | - |
